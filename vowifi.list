@@ -1,0 +1,30 @@
+# 🇩🇪 Vodafone Germany
+ims.vodafone.de
+epdg.epc.vodafone.de
+epdg.epc.mnc02.mcc262.pub.3gppnetwork.org
+
+# 🇦🇺 Amaysim (Optus MVNO)
+ims.amaysim.com.au
+epdg.epc.mnc01.mcc505.pub.3gppnetwork.org
+epdg.epc.mnc01.mcc505.3gppnetwork.org
+mnc01.mcc505.3gppnetwork.org
+
+# 🇬🇧 Giffgaff (O2 MVNO)
+ims.mnc10.mcc234.3gppnetwork.org
+epdg.epc.mnc10.mcc234.pub.3gppnetwork.org
+
+# 🇬🇧 Voxi (Vodafone MVNO)
+ims.voxi.co.uk
+epdg.epc.voxi.co.uk
+epdg.epc.mnc15.mcc234.pub.3gppnetwork.org
+
+# 通用 IMS/VoWiFi 域名
+ims
+epdg
+vowifi
+wificall
+
+# 兜底
+epdg.epc.att.net
+epdg.epc.tmobile.com
+epdg.epc.orange.fr
