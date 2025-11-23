@@ -1,0 +1,13 @@
+# 澳大利亚 Optus
+# IMS (VoLTE)
+DOMAIN-SUFFIX, ims.mnc002.mcc505.3gppnetwork.org
+# ePDG (VoWiFi/WiFi Calling)
+DOMAIN-SUFFIX, epdg.epc.mnc002.mcc505.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc002.mcc505
+# IMS/ePDG IP 地址
+IP-CIDR, 210.49.47.193/32
+IP-CIDR, 210.49.47.194/32
+# Optus 澳大利亚网络段
+DOMAIN-SUFFIX, optus.com.au
+DOMAIN-SUFFIX, optus.net.au
+IP-CIDR, 210.49.0.0/16
