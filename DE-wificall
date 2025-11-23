@@ -1,0 +1,12 @@
+# 德国 Vodafone
+# ePDG (VoWiFi/WiFi Calling)
+DOMAIN-SUFFIX, epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc002.mcc262
+# ePDG IP 地址
+IP-CIDR, 139.7.117.168/32
+IP-CIDR, 139.7.117.169/32
+IP-CIDR, 139.7.117.170/32
+# Vodafone 德国网络段
+DOMAIN-SUFFIX, vodafone.de
+DOMAIN-SUFFIX, vfde-gto.prod.ondemandconnectivity.com
+IP-CIDR, 139.7.0.0/16
