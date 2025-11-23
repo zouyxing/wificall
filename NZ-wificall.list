@@ -1,0 +1,17 @@
+# 新西兰 Vodafone NZ
+# ePDG (VoWiFi/WiFi Calling)
+DOMAIN-SUFFIX, epdg.epc.mnc001.mcc530.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc001.mcc530
+# Vodafone NZ ePDG IP 地址
+IP-CIDR, 203.96.213.192/32
+IP-CIDR, 203.96.213.193/32
+# 2degrees ePDG
+DOMAIN-SUFFIX, epdg.ims.2degrees.net.nz
+DOMAIN-SUFFIX, 2degrees.net.nz
+IP-CIDR, 118.148.14.20/32
+IP-CIDR, 118.149.14.20/32
+# Vodafone 新西兰网络段
+DOMAIN-SUFFIX, vodafone.co.nz
+IP-CIDR, 203.96.0.0/16
+IP-CIDR, 118.148.0.0/16
+IP-CIDR, 118.149.0.0/16
