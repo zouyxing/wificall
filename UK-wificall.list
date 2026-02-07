@@ -5,9 +5,9 @@ DOMAIN-KEYWORD, mcc234
 DOMAIN-SUFFIX, entsrv-uk.vodafone.com
 DOMAIN-SUFFIX, vuk-gto.prod.ondemandconnectivity.com
 IP-CIDR, 88.82.0.0/19
-IP-CIDR, 148.252.160.0/19
+IP-CIDR, 148.252.188.0/19
 # VOXI
-IP-CIDR, 148.252.160.0/19
+IP-CIDR, 148.252.188.0/19
 DOMAIN, vfgb.idemia.io
 # CMLinkUK EE
 IP-CIDR, 46.68.0.0/17
